@@ -32,7 +32,7 @@
 ###
 
 - 💻 Я начинающий iOS разработчик
-- 👩🏻‍🎓 Прошла курсы **Udemy by Angela Yu**, **Swift Marathon by DevRush**
+- 👩🏻‍🎓 Прошла курс **Udemy by Angela Yu**, **Swift Marathon by DevRush**
 - ⚡️ Имею опыт командной работы над проектом
 
 
